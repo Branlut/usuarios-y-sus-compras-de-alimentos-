@@ -20,7 +20,7 @@ La empresa de productos alimenticios en la cual trabajamos nos pidio realizar un
 - matplotlib
 
 ## Analisis
-- El periodo de prueba es bastante corto des finales de Julia hasta los primeros dias de Agosto alrededor de 13 dias
+- El periodo de prueba es bastante corto des finales de Julio hasta los primeros dias de Agosto alrededor de 13 dias
 - Comprobando la frecuencia de las fechas solo se tienen datos significativos a partir del 1 de Agosto del 2019
 - Teniendo en cuenta lo anterior se filtro a partir de esta fecha para que sean mas relavante el analisis
 - Se verifico que el nuevo dataframe cuenta con 240887 en comparacion al viejo con 243713 por lo cual solo se descartaron 2826 registros
